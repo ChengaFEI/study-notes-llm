@@ -19,7 +19,7 @@ LLM study notes.
 
 2. Structured Chain:
 
-3. Structured Output: Output Parser
+3. Structured Output: Output Parser (String, List, JSON, Pydantic), Output Fixing
 
 4. Structured API Call: LangServe
 
