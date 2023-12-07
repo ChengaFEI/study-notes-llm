@@ -1,4 +1,5 @@
 # llm-study-notes
+
 LLM study notes.
 
 ## Key Techniques
@@ -11,7 +12,7 @@ LLM study notes.
 
 4. Task-to-Execution Chain
 
-5. Multi-Agent Colaboration
+5. Multi-Agent Collaboration
 
 ## Structured Prompting
 
@@ -19,7 +20,11 @@ LLM study notes.
 
 2. Structured Chain:
 
-3. Structured Output: Output Parser (String, List, JSON, Pydantic), Output Fixing
+3. Structured Output:
+
+   1. Output Parser (String, List, JSON, Pydantic)
+   2. Output Fixing Parser
+   3. Output Retry Parser
 
 4. Structured API Call: LangServe
 
