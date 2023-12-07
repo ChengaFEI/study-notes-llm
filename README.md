@@ -15,7 +15,7 @@ LLM study notes.
 
 ## Structured Prompting
 
-1. Structured Input: Prompt Template
+1. Structured Input: Prompt Template, Input Schema
 
 2. Structured Chain:
 
