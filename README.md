@@ -10,3 +10,5 @@ LLM study notes.
 3. Pydantic-based Output Parser
 
 4. Task-to-Execution Chain
+
+5. Multi-Agent Colaboration
