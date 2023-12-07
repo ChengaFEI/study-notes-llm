@@ -8,3 +8,5 @@ LLM study notes.
 2. ReAct (Reasoning to Acting)
 
 3. Pydantic-based Output Parser
+
+4. Task-to-Execution Chain
