@@ -29,3 +29,13 @@ LLM study notes.
 4. Structured API Call: LangServe
 
 5. Structured Tracking: LangSmith
+
+## Model Fine-Tuning
+
+1. Chat Completions API (GPT-3.5 Turbo)
+
+2. Prompt Completion API (Davinci)
+
+3. OPENAI CLI (fine_tunes.prepare_data/fine_tunes.create)
+
+4. .jsonl files
