@@ -1,6 +1,6 @@
 # llm-study-notes
 
-LLM study notes.
+LLM study notes (outlines).
 
 ## Key Techniques
 
