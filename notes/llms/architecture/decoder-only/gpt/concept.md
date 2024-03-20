@@ -15,3 +15,7 @@ Predict next token in a sequence.
 ## Context Direction
 
 Unidirectional.
+
+## Features
+
+Although GPT is only trained with unsupervised learning, it proves to be useful in various NLP tasks such as translation, summarization, and Q&A.

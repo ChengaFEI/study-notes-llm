@@ -15,3 +15,7 @@ MLM task (Masked Language Model) and NSP task (Next Sentence Prediction)
 ## Context Direction
 
 Bidirectional.
+
+## Advancement
+
+RoBERTa (Robustly optimized BERT approach).
